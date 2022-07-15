@@ -1,2 +1,6 @@
 This is file1 task2
+<<<<<<< HEAD
 Editing under master
+=======
+Editing Under Bugfix
+>>>>>>> Bugfix
